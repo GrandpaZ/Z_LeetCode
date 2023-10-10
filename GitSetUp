@@ -13,3 +13,5 @@
 7.Need to commit what you added -------> git commit -m"message"
 
 8. Push your commit -----> git push origin branchName [use ----> git branch to check which branch you are currently on]
+
+
