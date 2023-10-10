@@ -7,3 +7,9 @@
 4. check status of current version   -----> git status
 
 5. add file or files that have changes ------->git add <file Name/filepath>
+
+6. git status again to check if successfully added[green means added, red means not added]
+
+7.Need to commit what you added -------> git commit -m"message"
+
+8. Push your commit -----> git push origin branchName [use ----> git branch to check which branch you are currently on]
